@@ -1,0 +1,4 @@
+# Build files and libraries
+.next
+build
+node_modules
