@@ -18,6 +18,10 @@ export default function App(props: AppProps) {
 				withNormalizeCSS
 				theme={{
 					colorScheme: "dark",
+					fontFamily: "Montserrat, sans-serif",
+					headings: {
+						fontFamily: "Montserrat, sans-serif",
+					},
 				}}
 			>
 				<Component {...pageProps} />
